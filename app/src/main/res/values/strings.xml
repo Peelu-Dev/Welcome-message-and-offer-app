@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">first app</string>
+    <string name="message1">Hello Peelu!</string>
+    <string name="message2">champ</string>
+    <string name="type_your_name_here">Type your name here...</string>
+    <string name="enter_your_email">Enter your email here...</string>
+    <string name="enter_your_email_here">Enter your email here...</string>
+    <string name="submit_button">Submit</string>
+    <string name="view_offers">View Offers</string>
+    <string name="Offer"></string>
+    <string name="Offer1" />
+</resources>
